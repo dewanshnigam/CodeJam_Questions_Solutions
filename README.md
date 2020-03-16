@@ -1,2 +1,2 @@
-# CodeJam_Questions_Solutions
-Google_CodeJam_Questions_Solutions
+# KickStart_Questions_Solutions
+Google_KickStart_Questions_Solutions
